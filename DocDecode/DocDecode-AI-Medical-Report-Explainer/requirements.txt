@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+pinecone
+openai
+pydantic
+tqdm
+numpy
+pypdf
+pytesseract
+pdf2image
+Pillow
+google-genai

@@ -1,0 +1,8 @@
+.venv/
+venv/
+.venv312/
+HeyDoc-AI-RAG-Medical-Report-Explainer/
+HeyDoc-AI-RAG-Medical-Report-Explainer.zip
+__pycache__/
+*.pyc
+.env
