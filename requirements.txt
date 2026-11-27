@@ -8,3 +8,4 @@ tqdm
 numpy
 pypdf
 scikit-learn
+google-genai

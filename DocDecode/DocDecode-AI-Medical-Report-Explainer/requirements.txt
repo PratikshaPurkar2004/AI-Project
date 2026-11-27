@@ -6,6 +6,6 @@ chromaDB
 pydantic
 tqdm
 numpy
-gemini
+google-genai
 pypdf
 scikit-learn
