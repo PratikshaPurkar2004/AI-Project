@@ -1,12 +1,10 @@
 streamlit
 python-dotenv
-pinecone
-openai
+pytesseract
+pdf2image
+chromaDB
 pydantic
 tqdm
 numpy
+gemini
 pypdf
-pytesseract
-pdf2image
-Pillow
-google-genai
