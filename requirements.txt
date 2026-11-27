@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pytesseract
+pdf2image
+chromadb
+pydantic
+tqdm
+numpy
+pypdf
